@@ -1,1 +1,1 @@
-# This Repository is random python codes
+# This Repository consists of projects made using Python code
